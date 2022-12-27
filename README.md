@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasa
-- 👀 I’m interested in Computer Vision, Web Development, Mobile Application Development, and Artificial Intelligence 
-- 🌱 I’m currently learning ROS and Machine Learning
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning Deep Learning
 
 <!---
 prasa-p/prasa-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
