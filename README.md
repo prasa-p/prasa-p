@@ -22,7 +22,7 @@
 📚 Computer Science student at Wilfrid Laurier University<br>
 🎨 Passionate about UX/UI design, Augmented Reality, and Extended Reality technologies<br>
 🛠️ Aspiring UX Engineer/Software Engineer<br>
-🔔 Ping me about turning designs into functional products. I thrive where design and engineering meet
+🔔 Ping me about turning designs into functional products
 </p>
 <br>
 
