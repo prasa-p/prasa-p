@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Prasa, a Full-Stack Developer 👩🏾‍💻</h1>
+<h1 align="center">Hi I'm Prasa, a Software Developer 👩🏾‍💻</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prasa-p/" target="_blank">
